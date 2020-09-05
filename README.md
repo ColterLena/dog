@@ -1,4 +1,4 @@
-# Welcome to HTML
+# Welcome to HTML: An HTML and CSS Exercise
 In your first assignment, you will end up with a web page, no matter how simple,
 published on the web.
 
